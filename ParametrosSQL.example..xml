@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Arquivo de Parametro para a discipla de Programação III</comment>
+<entry key="senha">password</entry>
+<entry key="nome">postgres</entry>
+<entry key="driverJDBC">org.postgresql.Driver</entry>
+<entry key="endIpBanco">localhost</entry>
+<entry key="nroPorta">5432</entry>
+<entry key="databaseName">database</entry>
+</properties>
